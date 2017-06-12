@@ -1,8 +1,3 @@
-
-
-<link rel = "css style" type="text/css" href="css style.css"
-
-
 .nav{
 	display:grey;
 	background:black;
@@ -12,3 +7,6 @@
 	float:right;
 }
 
+a:hover {
+	color: #e0e0e0;
+}
